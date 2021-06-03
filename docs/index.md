@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Scaledown
+Scaledown is an Open-Source Neural Network Optimization Framework for TinyML Devices.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Simply put, we help you scaledown your large neural networks into small ones so that you can deploy them to resource constrained edge computing devices like Arduino's, Raspberry Pi's and Mobile Phones.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you are wondering what TinyML or Edge Computing is, take a look at our [free book and course](https://scaledown-team.github.io/practical_tinyml_book/).
