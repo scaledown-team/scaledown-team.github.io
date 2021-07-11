@@ -13,3 +13,7 @@ nav:
     - api/index.md
   - 'Learn TinyML': https://scaledown-team.github.io/practical_tinyml_book/intro.html
 
+extra:
+  analytics:
+    provider: google
+    property: G-ELFBGLJEG4
