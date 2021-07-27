@@ -9,7 +9,9 @@ nav:
   - 'Home': index.md
   - 'Getting Started':
     - getting_started/installation.md
-  - 'API Reference':
+  - 'User Guide':
+    - guide/index.md
+  - 'Docs':
     - api/index.md
   - 'Learn TinyML': https://scaledown-team.github.io/practical_tinyml_book/intro.html
 
