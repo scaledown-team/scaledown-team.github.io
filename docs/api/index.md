@@ -9,11 +9,12 @@ For more information on how to load models and get started with ScaleDown, check
 
 **[scaledown.load_model(model, model_type)](docs/api/load_model.md)**:  Wrapper function for loading supported models
 
-## [`scaledown.Quantization`](docs/api/quantization.md): Quantizing Models
+## [scaledown.quantization](quantization.md): Quantizing Models
 Utilities for optimizing models uing quantizing. 
 
 **User Guide**: See [Quantization](../guide/quantization.md) to learn more about the supported quantization algorithms and how they work 
 
-**[scaledown.WeightQuantization](weight_quantization.md)**: Perform only weight quantization of models. Good for reducing model size with less drop in accuracy.
+**[`quantization.WeightQuantization`](weight_quantization.md)**: Perform only weight quantization of models. Good for reducing model size with less drop in accuracy.
 
-**[scaledown.ActivationQuantization](activation_quantization.md)**: Perform weight and activation quantization of models. Good for reducing model size and use `INT8` operations for executing models.
+#### **[`quantization.ActivationQuantization`](activation_quantization.md)**:
+Perform weight and activation quantization of models. Good for reducing model size and for using `INT8` operations for executing models.
