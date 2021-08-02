@@ -20,4 +20,4 @@ pip install sd-nightly
 Since scaledown is meant to be installed and used in edge devices, it has intentionally been made as lightweight as possible. No extra packages are included along with the package and any other framework or tool that you need to use should be installed separately.
 
 # Learning Resources
-If you are new to TinyML and Edge Computing or if you need a refresher on some of its concepts, you can take a look at our [learning resources](learning)
+If you are new to TinyML and Edge Computing or if you need a refresher on some of its concepts, you can take a look at our [learning resources](https://github.com/scaledown-team/study-group)
