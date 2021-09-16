@@ -6,7 +6,7 @@ Simply put, we help you scaledown your large neural networks into small ones so 
 If you are wondering what TinyML or Edge Computing is, take a look at our [free book and course](https://scaledown-team.github.io/practical_tinyml_book/).
 
 
-## Features:
+## Features
 Broadly to run models on TinyML devices, you need to be able to do the following:
 - **Optimize** your model using algorithms like quantization, pruning, knowledge distillation etc.,
 - **Benchmark** and **Evaluate** your model's performance, and,
