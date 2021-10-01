@@ -12,6 +12,8 @@ nav:
   - 'User Guide':
     - guide/index.md
     - guide/quantization.md
+    - guide/knowledgedistillation.md
+    - guide/pruning.md
   - 'Docs':
     - api/index.md
     - 'Quantizing Models':
