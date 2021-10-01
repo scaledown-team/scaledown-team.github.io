@@ -35,8 +35,7 @@ But what happens when we shift to smaller devices? How do they differ from the l
 
 
 ### Weight Quantization:
+When we perform weight quantization, we convert all weight values to a lower precision like INT8. This reduces the size of the model. However when we execute the model, we need to convert our weights back to their full precision. So while we do get a lot of memory savings, there is no latency savings and there is a tiny overhead of converting up-converting all weight values.
 
-
-
-
-
+### Weight and Activation Quantization:
+Instead of up-converting quantized weights when we perform activation quntization, we keep the activation in low precision and execute the model. By restricting all computation to INT8 precision, we can decrease computation latency as well as model size.

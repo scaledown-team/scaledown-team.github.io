@@ -17,8 +17,12 @@ nav:
     - guide/pruning.md
   - 'Docs':
     - api/index.md
-    - 'Quantizing Models':
+    - 'Quantization':
       - api/weight_quantization.md
+    - 'Knowledge Distilling':
+      - api/knowledge_distillation.md
+    - 'Pruning':
+      - api/magnitude_pruning.md
   - 'Blog': https://scaledown-team.github.io/blog
   - 'Learn TinyML': learn.md
 
