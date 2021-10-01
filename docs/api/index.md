@@ -16,5 +16,13 @@ Utilities for optimizing models uing quantizing.
 
 **[`quantization.WeightQuantization`](weight_quantization.md)**: Perform only weight quantization of models. Good for reducing model size with less drop in accuracy.
 
-#### **[`quantization.ActivationQuantization`](activation_quantization.md)**:
+**[`quantization.ActivationQuantization`](activation_quantization.md)**:
 Perform weight and activation quantization of models. Good for reducing model size and for using `INT8` operations for executing models.
+
+
+## [scaledown.distillation](distillation.md): Distilling Large Models
+Utilities for distilling the knowledge of large models to smaller ones.
+
+**User Guide**: See [Distillation](../guide/distillation.md) to learn more about the supported knowledge distillation algorithms and how they work 
+
+**[`distillation.KnowledgeDistillation`](weight_quantization.md)**: Distill models using the original knowledge distillation technique proposed by Hinton et. al. Supports add temperature to distillation as well.

@@ -2,6 +2,7 @@ site_name: Scaledown
 
 theme:
   name: material
+  logo: assets/highres_logo.png
   features:
     - navigation.tabs
 
@@ -19,7 +20,7 @@ nav:
     - 'Quantizing Models':
       - api/weight_quantization.md
   - 'Blog': https://scaledown-team.github.io/blog
-  - 'Learn TinyML': https://scaledown-team.github.io/practical_tinyml_book/intro.html
+  - 'Learn TinyML': learn.md
 
 extra:
   analytics:
