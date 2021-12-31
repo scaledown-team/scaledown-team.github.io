@@ -15,7 +15,7 @@ Currently we have started our library in Singapore.
 
 ## Want to start a Hardware Library?
 
-Do you want to start a hardware library at your city. Reach out to us 
+Do you want to start a hardware library at your city. Reach out to [us](scaledown.tinyml@gmail.com) 
 
 
 ## Frequently asked Questions
