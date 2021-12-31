@@ -45,4 +45,4 @@ Alongside that, we also offer conversion between frameworks. So in case, you wan
 ## Contact Us
 ScaleDown is currently in active development. In case you run into any issues, feel free to raise an [issue on Github](https://github.com/scaledown-team).
 
-You can also contact us via email at `hello @ csoham . com`
+You can also contact us via email at `scaledown.tinyml@gmail.com`
