@@ -25,6 +25,8 @@ nav:
       - api/magnitude_pruning.md
   - 'Blog': https://scaledown-team.github.io/blog
   - 'Learn TinyML': learn.md
+  - 'Hardware Library': hardware_library.md
+  - 'Scaledown-Team': team.md
 
 extra:
   analytics:
