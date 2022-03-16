@@ -33,7 +33,6 @@ nav:
     - learn.md
   - 'Team':
     - 'Scaledown Team': team/team.md
-    - 'Join Us': team/joinus.md
 extra:
   analytics:
     provider: google
