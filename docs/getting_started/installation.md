@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Introduction
-=======
+
 # Intro
->>>>>>> origin/main
 
 This getting started guide shows you how to use most of scaledown's features.
 
