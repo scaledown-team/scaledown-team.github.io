@@ -34,7 +34,7 @@ nav:
   - 'Team':
     - 'Scaledown Team': team/team.md
   - 'Conferences':
-    -conferences/tinymlsummit.md
+    - conferences/tinymlsummit.md
 
 extra:
   analytics:
