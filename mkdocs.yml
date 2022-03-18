@@ -33,6 +33,9 @@ nav:
     - learn.md
   - 'Team':
     - 'Scaledown Team': team/team.md
+  - 'Conferences':
+    -conferences/tinymlsummit.md
+
 extra:
   analytics:
     provider: google
