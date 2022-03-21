@@ -7,6 +7,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.indexes
+    - content.tabs.link
 
 markdown_extensions:
   - pymdownx.inlinehilite
@@ -14,29 +15,36 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - attr_list
+  - md_in_html
 
 nav:
   - 'Home': index.md
   - 'Getting Started':
     - getting_started/installation.md
-  - 'Docs':
     - 'User Guide':
-      - guide/index.md
-      - guide/quantization.md
-      - guide/knowledgedistillation.md
-      - guide/pruning.md
-    - 'API':
-      - api/index.md
-      - 'Quantization':
-        - api/weight_quantization.md
-      - 'Knowledge Distilling':
-        - api/knowledge_distillation.md
-      - 'Pruning':
-        - api/magnitude_pruning.md
+      - getting_started/User Guide.md
+      - getting_started/pruning.md
+      - getting_started/knowledgedistillation.md
+  - 'Docs':
+    - api/index.md
+    - 'Quantization':
+      - api/weight_quantization.md
+    - 'Knowledge Distilling':
+      - api/knowledge_distillation.md
   - 'Blog': https://scaledown-team.github.io/blog
-  - 'Learn TinyML': learn.md
-  - 'Hardware Library': hardware_library.md
-  - 'Scaledown-Team': team.md
+  - 'Library': 
+    - 'Hardware Library':
+      - hardware_library/intro.md
+      - hardware_library/hardwarepresent.md
+      - hardware_library/requestforhardware.md
+    - learn.md
+  - 'Team':
+    - 'Scaledown Team': team/team.md
+  - 'Conferences':
+    - conferences/tinymlsummit.md
 
 extra_css:
   - stylesheets/extra.css
@@ -45,3 +53,4 @@ extra:
   analytics:
     provider: google
     property: G-ELFBGLJEG4
+
