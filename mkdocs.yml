@@ -5,28 +5,41 @@ theme:
   logo: assets/highres_logo.png
   features:
     - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+
+markdown_extensions:
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 nav:
   - 'Home': index.md
   - 'Getting Started':
     - getting_started/installation.md
-  - 'User Guide':
-    - guide/index.md
-    - guide/quantization.md
-    - guide/knowledgedistillation.md
-    - guide/pruning.md
   - 'Docs':
-    - api/index.md
-    - 'Quantization':
-      - api/weight_quantization.md
-    - 'Knowledge Distilling':
-      - api/knowledge_distillation.md
-    - 'Pruning':
-      - api/magnitude_pruning.md
+    - 'User Guide':
+      - guide/index.md
+      - guide/quantization.md
+      - guide/knowledgedistillation.md
+      - guide/pruning.md
+    - 'API':
+      - api/index.md
+      - 'Quantization':
+        - api/weight_quantization.md
+      - 'Knowledge Distilling':
+        - api/knowledge_distillation.md
+      - 'Pruning':
+        - api/magnitude_pruning.md
   - 'Blog': https://scaledown-team.github.io/blog
   - 'Learn TinyML': learn.md
   - 'Hardware Library': hardware_library.md
   - 'Scaledown-Team': team.md
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   analytics:

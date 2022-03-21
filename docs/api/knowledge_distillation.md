@@ -1,6 +1,8 @@
 # scaledown.distillation.KnowledgeDistillation
 
-*class* scaledown.quantization.**KnowledgeDistillation**(teacher, student, optimizer, distillation\_loss, student\_loss, metric, activation, temperature=1)
+```py
+class scaledown.quantization.KnowledgeDistillation(teacher, student, optimizer, distillation_loss, student_loss, metric, activation, temperature=1)
+```
 
 ### Parameters
 - **teacher**: model  
