@@ -18,7 +18,7 @@ Check out this short video and watch how ScaleDown can be implemented:
 </div> -->
 
 
-## How is ScaleDown Helping in quicker implementation?
+<!-- ## How is ScaleDown Helping in quicker implementation?
 
 <p align="center">
     <img src="/assets/steps.png" width="800" height="800"/>
@@ -34,3 +34,4 @@ Check out our how ScaleDown simplifies complex steps during a TinyML cycle.
 We are constantly looking to ramp our work and open-source package, sign up to get updates on new optimizations and framework adoptions.
 
 [Sign Up for Updates](https://tinyml.substack.com/embed){ .md-button .md-button--primary }
+ -->
