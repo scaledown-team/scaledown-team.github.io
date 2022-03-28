@@ -53,4 +53,31 @@ extra:
   analytics:
     provider: google
     property: G-ELFBGLJEG4
+    
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/scaledown_team
+      name: Scaledown Twitter
+
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:scaledown.tinyml@gmail.com
+      name: Reach out via email
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/scaledown-team/
+      name: Scaledown Github
+
+    - icon: fontawesome/brands/slack
+      link: https://join.slack.com/t/scaledownworkspace/shared_invite/zt-10s5tnxit-b8Xwf81zn4fMNSp9IiA_vA
+      name: Scaledown Slack
+
+    - icon: fontawesome/solid/hand-holding-dollar
+      link: https://join.slack.com/t/scaledownworkspace/shared_invite/zt-10s5tnxit-b8Xwf81zn4fMNSp9IiA_vA
+      name: Donate for our Cause
+
+
+
+  extra:
+  generator: false
 
