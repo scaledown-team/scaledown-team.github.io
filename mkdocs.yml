@@ -40,6 +40,7 @@ nav:
       - hardware_library/intro.md
       - hardware_library/hardwarepresent.md
       - hardware_library/requestforhardware.md
+      - hardware_library/donatetous.md
     - learn.md
   - 'Team':
     - 'Scaledown Team': team/team.md
