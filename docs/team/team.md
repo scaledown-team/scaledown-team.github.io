@@ -17,6 +17,14 @@
 
     * Reach out via: [Twitter](https://twitter.com/varchanaiyer_)| [LinkedIn](https://www.linkedin.com/in/archana-iyer/)| [Github](https://github.com/varchanaiyer)
 
+=== "Avyay Sah"
+
+    ![Avyay](https://varchanaiyer.github.io/gradportfolio/assets/images/avyaysah.jpeg){ width="300" }
+
+    * Graduate Student @Purdue University, Co-Founder @Walkity
+
+
+    * Reach out via: [LinkedIn](https://www.linkedin.com/in/avyay-sah/)
 
 # **Join Us**
 
