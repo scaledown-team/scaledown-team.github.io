@@ -19,7 +19,7 @@
 
 === "Avyay Sah"
 
-    ![Avyay](https://varchanaiyer.github.io/gradportfolio/assets/images/avyaysah.jpeg){ width="300" }
+    ![Avyay]https://github.com/scaledown-team/scaledown-team.github.io/blob/main/docs/assets/avyaysah.jpeg){ width="300" }
 
     * Graduate Student @Purdue University, Co-Founder @Walkity
 
