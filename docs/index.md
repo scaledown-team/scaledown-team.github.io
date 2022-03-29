@@ -1,5 +1,5 @@
-# Scaledown
-Scaledown is an Open-Source Neural Network Optimization Framework for TinyML Devices.
+# ScaleDown
+ScaleDown is an Open-Source Neural Network Optimization Framework for TinyML Devices.
 
 Simply put, we help you scaledown your large neural networks into small ones so that you can deploy them to resource constrained edge computing devices like Arduino's, Raspberry Pi's and Mobile Phones.
 
@@ -18,7 +18,7 @@ In addition to the above, we also aim to be framework agnostic so you can use ou
 
 Finally, we know how it can be difficult to properly optimize your models for edge devices, so we will also provide API for **automated model optimization** based on your hardware restrictions.
 
-### Optimzation Techniques
+### Optimization Techniques
 Currently we offer serveral optimization techniques for TinyML. We also offer a wide range of techniques which can help you in your applications.
 
 | Type of Optimisation   	| Tensorflow         	| OpenVino                  	| PyTorch     	| NVIDIA TensorRT         	|
