@@ -5,6 +5,7 @@ Thank you for stopping by our Poster!
 Want to know more about ScaleDown?
 
 
+
 ## Check out a Short Demo
 
 Check out this short video and watch how ScaleDown can be implemented:
