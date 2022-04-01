@@ -46,6 +46,7 @@ nav:
     - 'Scaledown Team': team/team.md
   - 'Conferences':
     - conferences/tinymlsummit.md
+    - conferences/fossasia.md
 
 extra_css:
   - stylesheets/extra.css
