@@ -30,4 +30,4 @@ Reach out to [us](scaledown.tinyml@gmail.com)
 4. **Can I place a request for 2-3 hardware devices?**<br />
     Currently our hardware devices are limited, so we will only be providing one at a time. Not to fret, we are constantly reaching out to indivduals and organisations to help us with the supply of devices
 5. **I have some extra hardware devices, how can I contribute/donate?**<br />
-    Thank you so much for donating hardware to our community. Your efforts will go a long way in democratising TinyML education in the community. You can fill up this [form]() or reach out [us](scaledown.tinyml@gmail.com), and we will get back to you with the logistics
+    Thank you so much for donating hardware to our community. Your efforts will go a long way in democratising TinyML education in the community. You can fill up this [form](https://forms.gle/1DrvsjMvBJpogUBA9) or reach out [us](scaledown.tinyml@gmail.com), and we will get back to you with the logistics
