@@ -27,7 +27,7 @@
 
 === "Raspberry Pi 4"
 
-    ![Raspberry Pi 4](https://assets.raspberrypi.com/static/raspberry-pi-4-labelled-e7f2e1d0bd4acdae2368c7ebd7b2028f.png){ width="300" }
+    ![Raspberry Pi 4](https://www.zdnet.com/a/img/resize/58bca0c2ec5b1cf450706bd19023b7ee7ccd73d5/2021/06/11/a419ab3e-428b-40fa-b554-02a18831fce3/raspberry-pi-4-model-b-header.jpg?auto=webp&width=768){ width="300" }
 
     This is the latest model of Raspberry Pi
 
