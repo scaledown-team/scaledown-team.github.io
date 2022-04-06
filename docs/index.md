@@ -24,7 +24,7 @@ Currently we offer serveral optimization techniques for TinyML. We also offer a 
 | Type of Optimisation   	| Tensorflow         	| OpenVino                  	| PyTorch     	| NVIDIA TensorRT         	|
 |------------------------	|--------------------	|---------------------------	|-------------	|-------------------------	|
 | Quantization           	| &check; 	| In Progress               	| In Progress 	| Will be available soon! 	|
-| Knowledge Distillation 	| &check;	| &cross;<sup>*</sup> 	| In Progress 	| Will be available soon! 	|
+| Knowledge Distillation 	| &check;	| &cross;<sup>*</sup> 	|  &check; 	| Will be available soon! 	|
 | Pruning                	| In Progress        	| &cross;<sup>*</sup>	| In Progress 	| Will be available soon! 	|
 
 
@@ -34,10 +34,10 @@ Alongside that, we also offer conversion between frameworks. So in case, you wan
 
 | From            	|  To Tensorflow          	|  To OpenVino            	| To PyTorch              	| ONXX                    	| To NVIDIA TensorRT      	|
 |-----------------	|-------------------------	|-------------------------	|-------------------------	|-------------------------	|-------------------------	|
-| Tensorflow      	| &cross;<sup>*<sup>    	| In Progress             	| In Progress             	| &check;                 	| Will be available soon! 	|
+| Tensorflow      	| &cross;<sup>*<sup>    	| In Progress             	| &cross;<sup>*</sup>             	| &check;                 	| Will be available soon! 	|
 | OpenVino        	| In Progress     	| &cross;<sup>*</sup>     	| In Progress     	| In Progress             	| Will be available soon! 	|
 | PyTorch         	| &check;                 	| In Progress             	| &cross;<sup>*</sup>     	| &check;                 	| Will be available soon! 	|
-| ONNX 	| &check;	| &cross;<sup>*</sup> | &cross;<sup>*</sup>	| &cross;<sup>*</sup>	| Will be available soon!     	|
+| ONNX 	| &check;	| In Progress | In Progress| &cross;<sup>*</sup>	| Will be available soon!     	|
 
 
 "*" = This Optimisation technique is not supported by the frameworks. In case, you find this information misleading, feel free to raise an [issue on Github](https://github.com/scaledown-team) 
