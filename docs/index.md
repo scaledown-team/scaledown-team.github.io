@@ -8,8 +8,11 @@ If you are wondering what TinyML or Edge Computing is, take a look at our [free 
 
 ## Features
 Broadly to run models on TinyML devices, you need to be able to do the following:
+<br />
 - **Optimize** your model using algorithms like quantization, pruning, knowledge distillation etc.,
+
 - **Benchmark** and **Evaluate** your model's performance, and,
+
 - **Deploy** your model to the TinyML device.
 
 These are the three verticals that ScaleDown takes care of so that you can focus on the main task of getting data and training models for interesting applications!
